@@ -70,8 +70,16 @@
 	height:800px;
 	color: #ecdbff;
 }
+.jumbotron .head {
+	text-align:center;
+}
 .maindescription{
 	margin-bottom:50px;
 	position:absolute;
 	bottom:0;
+}
+footer{
+	
+	text-align:center;
+	
 }
