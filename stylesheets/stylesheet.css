@@ -68,5 +68,10 @@
 	margin-right:auto;
 	width:88%;
 	height:800px;
-	color: black;
+	color: #ecdbff;
+}
+.maindescription{
+	margin-bottom:50px;
+	position:absolute;
+	bottom:0;
 }
